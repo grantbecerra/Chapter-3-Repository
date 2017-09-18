@@ -63,25 +63,25 @@ public class DelgadosTacos {
 				(tacosdeLengua * tacosDeLenguaOrdered) + (fajitas * fajitasOrdered) +
 				(tortas * tortasOrdered);
 		
-		System.out.println("Your total is " + total);
+		System.out.println("Your total is " + total * 1.07);
 		
 		
 	}
 	public static void displayMenu()
 	{
-		System.out.println("Classic Tacos")
-		classicTacos = 1.50;
-		double burritos = 5.00;
-		double carnitas = 3.50;
-		double carneAsadaTacos = 4.50;
-		double enchiladas = 7.00;
-		double quesadillas = 5.00;
-		double chimichangas = 4.00;
-		double churros = 4.00;
-		double tacosdeLengua = 8.00;
-		double fajitas = 7.00;
-		double tortas = 4.50;
 		
+		System.out.println("Classic Tacos = 1.50");
+		System.out.println("Burritos = 5.00");
+		System.out.println("Carnitas = 3.50");
+		System.out.println("CarneAsadaTacos = 4.50");
+		System.out.println("Enchiladas = 7.00");
+		System.out.println("Quesadillas = 5.00");
+		System.out.println("Chimichangas = 4.00");
+		System.out.println("Churros = 4.00");
+		System.out.println("Tacos de Lengua = 8.00");
+		System.out.println("Fajitas = 7.00");
+		System.out.println("Tortas = 4.50");
+		}	
 	public static void displayTacoTruck() 
 	{
 	
