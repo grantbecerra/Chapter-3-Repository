@@ -84,8 +84,6 @@ public class DelgadosTacos {
 		}	
 	public static void displayTacoTruck() 
 	{
-	
-	
 	System.out.println("TacoTruckTacoTruckTacoTruckTacoTruckTacoT");
 	System.out.println("TacoTruckTacoTruckTacoTruckTacoTruckTacoTru");
 	System.out.println("TacoTruckTacoTruckTacoTruckTacoTruckTacoTruck");
